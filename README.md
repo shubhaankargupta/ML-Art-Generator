@@ -3,7 +3,12 @@ Use Neural Style Transfer to generate ML art in an easy-to-use interface on [Goo
 
 ## Steps
 1. Use the interface below on the right to enter the URL (ending with .png or .jpeg) of both the content image (to modify) and style image (used to modify).
+
+![Step 1](https://user-images.githubusercontent.com/63454581/140332159-b7aab504-7f99-4308-89a1-833c612fabdc.png)
+
 2. Run the cell by clicking on the the 'run' button and get a stylised image.
+ 
+![Step 2](https://user-images.githubusercontent.com/63454581/140332255-93bd7940-2b25-460b-bda3-0d983309530a.png)
 
-
-Acknowledgements: [Neural Style Transfer on Tensorflow](https://www.tensorflow.org/tutorials/generative/style_transfer)
+## Acknowledgements: 
+[Neural Style Transfer on Tensorflow](https://www.tensorflow.org/tutorials/generative/style_transfer)
