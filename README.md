@@ -10,5 +10,7 @@ Use Neural Style Transfer to generate ML art in an easy-to-use interface on [Goo
  
 ![Step 2](https://user-images.githubusercontent.com/63454581/140332255-93bd7940-2b25-460b-bda3-0d983309530a.png)
 
+![](https://user-images.githubusercontent.com/63454581/140349002-8fee95c4-168c-49b7-85d4-0b13b1373374.gif)
+
 ## Acknowledgements: 
 [Neural Style Transfer on Tensorflow](https://www.tensorflow.org/tutorials/generative/style_transfer)
