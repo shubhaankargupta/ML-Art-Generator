@@ -1,5 +1,5 @@
 # ML-Art-Generator
-Use Neural Style Transfer to generate ML art in an easy-to-use interface on [Google Colab](https://colab.research.google.com/github/shubhaankargupta/ML-Art-Generator/blob/main/ML_GAN_ART.ipynb)
+Use Neural Style Transfer to generate ML art in an easy-to-use interface on Google Colab. [Press here](https://colab.research.google.com/github/shubhaankargupta/ML-Art-Generator/blob/main/ML_GAN_ART.ipynb) to access it.
 
 ## Steps
 1. Use the interfaceto enter URLs (ending with .png or .jpeg) of both the content image (to modify) and style image (used to modify).
