@@ -6,7 +6,7 @@ Use Neural Style Transfer to generate ML art in an easy-to-use interface on Goog
 
 ![Step 1](https://user-images.githubusercontent.com/63454581/140332159-b7aab504-7f99-4308-89a1-833c612fabdc.png)
 
-2. Run the cell by clicking on the the 'run' button and get a stylised image.
+2. Run the cell(s) by clicking on the the 'run' button and get a stylised image.
  
 ![Step 2](https://user-images.githubusercontent.com/63454581/140332255-93bd7940-2b25-460b-bda3-0d983309530a.png)
 
